@@ -1,7 +1,7 @@
 {
-  "name": "profile-page-pseudo-classes",
+  "name": "animations-transitions-task",
   "version": "1.0.0",
-  "description": "A task to apply CSS pseudo-classes to a profile page, enhancing interactivity and styling.",
+  "description": "A task to apply keyframe animations and CSS transitions to a profile page.",
   "main": "index.html",
   "scripts": {
     "start": "open index.html"
