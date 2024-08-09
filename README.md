@@ -1,2 +1,2 @@
-# Frontend_CSS_Task3
-  Implementing CSS Pseudo-Classes on Your Profile Page
+# Frontend_CSS_Task7
+ Creating CSS Animations for Your Profile Page
