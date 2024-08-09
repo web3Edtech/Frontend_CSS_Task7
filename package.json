@@ -1,0 +1,11 @@
+{
+  "name": "profile-page-pseudo-classes",
+  "version": "1.0.0",
+  "description": "A task to apply CSS pseudo-classes to a profile page, enhancing interactivity and styling.",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "NFThing",
+  "license": "ISC"
+}
